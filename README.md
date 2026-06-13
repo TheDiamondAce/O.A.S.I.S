@@ -5,6 +5,10 @@ This was an engineering project from my Engineering class in 10th grade, we had 
 # How does it work:
 Using VEX V5 Components, the robot works by utlizing Two Distance sensors and Two Color Sensors although we removed the colored sensors in the final adapation (credit to Hari and Konnor who helped and gave me permission to use this for whatever). And using the code debugged with the help of Gemini, it uses a system in which it has a closed loop system of detecting then reacting using data recieved through the distance sensors and rotary encoders in the motor.
 
+# Project Demonstration
+
+https://drive.google.com/file/d/1ilRvFA6LZR0Eo-vcp2xVe0W6ECRg0xV7/view?usp=sharing
+
 # Pictures of Project
 <img width="5661" height="4284" alt="IMG_9639 2" src="https://github.com/user-attachments/assets/f91fa2b8-c3e9-4170-a080-3efb9f2837c7" />
 <img width="683" height="383" alt="Screenshot 2026-06-03 at 11 24 04 PM" src="https://github.com/user-attachments/assets/4b39e9ec-1e6d-497c-b54d-98697a2b26d0" />
